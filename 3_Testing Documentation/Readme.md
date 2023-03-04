@@ -1,4 +1,4 @@
-# **Testing Dokumetation**
+# **Testing Dokumentation**
 # Rangkuman Ini Berisi
 1. Pengertian Test Scenario dan Contohnya
 2. Pengertian Test Case dan Contohnya
