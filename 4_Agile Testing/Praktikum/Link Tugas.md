@@ -1,0 +1,1 @@
+Link Tugas Agile Testing : https://docs.google.com/document/d/1ycy4_vKUwwHLfaWfxCUf7tzFQK8Qol_c/edit?usp=sharing&ouid=104467210646738429935&rtpof=true&sd=true
