@@ -1,0 +1,2 @@
+raykrieger_02e51ab6-67cc-41c9-b2e4-cb7c23b95c4a_1,02e51ab6-67cc-41c9-b2e4-cb7c23b95c4a,ray krieger,devops,docker basisc
+ryowatanabe_02e51ab6-67cc-41c9-b2e4-cb7c23b95c4a_1,02e51ab6-67cc-41c9-b2e4-cb7c23b95c4a,ryo watanabe,devops,kubernetes basics
